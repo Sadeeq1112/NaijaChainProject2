@@ -53,6 +53,41 @@ python -m unittest tests/test_marketplace.py
 cd smartcontract/scripts
 python deploy.py
 
+Key Technical Achievements
+Smart Contracts
+Implemented PyTeal-based marketplace contract with:
+
+Service listing/booking logic
+Escrow payment system
+Artisan verification mechanism
+Developed automated testing suite:
+
+Unit tests for all contracts
+Integration tests with Algorand testnet
+User Interface
+React-based marketplace frontend:
+Wallet connection (AlgoSigner/MyAlgo)
+Service listing interface
+Payment processing
+Backend Services
+Node.js API with:
+Algorand SDK integration
+User authentication
+IPFS integration for media storage
+Development Status
+Current working features:
+
+✅ Smart contract deployment
+✅ Basic marketplace operations
+✅ Frontend
+In progress:
+
+🚧 Dispute resolution mechanism
+🚧 Rating system
+🚧 Mobile responsiveness
+🚧 Backend and service side functions
+
+
 Key Features
 Artisan registration and verification
 Service listing and booking
