@@ -1,0 +1,106 @@
+{
+    "title": "about",
+    "content": [
+        {
+            "section": "about-section",
+            "section_title": {
+                "title": "Empowering Local Artisans. <br> With Decentralized Marketplace"
+            },
+            "image": {
+                "src": "/images/bg/felipepelaquim-tCuXRpV25Vs-unsplash (1).jpg"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Why We Do This",
+                    "description": "We believe in the power of local Nigerian crafts and the artisans who create them. By providing a decentralized marketplace, we're helping these artisans reach a global audience and receive fair compensation for their work.",
+                    "path": "/blog"
+                },
+                {
+                    "id": 2,
+                    "title": "Helping You <br/> Grow At Every Stage.",
+                    "description": "From setting up your wallet, creating your collection, adding your crafts, to selling them, we're here to support you at every stage of your journey."
+                }
+            ]
+        },
+        {
+            "section": "quote-section",
+            "section_title": {
+                "title": "Create, Sell, and Collect Unique Nigerian Crafts at DMLA"
+            },
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "The growth of decentralized marketplaces is tremendous, providing unique opportunities for local artisans to showcase their crafts to a global audience. Join us in this revolution and start selling your crafts today."
+                }
+            ]
+        },
+        {
+            "section": "funfact-section",
+            "section_title": {
+                "title": "DMLA Statistics"
+            },
+            "funfacts": [
+                {
+                    "id": 1,
+                    "title": "All Crafts",
+                    "counter": 100
+                },
+                {
+                    "id": 2,
+                    "title": "All Artisans",
+                    "counter": 500,
+                    "suffix": "+"
+                },
+                {
+                    "id": 3,
+                    "title": "Total Earnings",
+                    "counter": 700
+                },
+                {
+                    "id": 4,
+                    "title": "Top Sellers",
+                    "counter": 900,
+                    "suffix": "+"
+                }
+            ]
+        },
+        {
+            "section": "cta-section",
+            "headings": [
+                {
+                    "id": 1,
+                    "content": "Discover rare Nigerian crafts <br/> and start your collection"
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Join the DMLA community and start discovering unique Nigerian crafts. Whether you're an artisan or a collector, there's something for everyone here."
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "/create",
+                    "content": "Create"
+                },
+                {
+                    "id": 2,
+                    "path": "/contact",
+                    "content": "Contact Us",
+                    "color": "primary-alta"
+                }
+            ],
+            "image": {
+                "src": "/images/bg/jorge-zapata-4nXkhLCrkLo-unsplash (1).jpg"
+            }
+        },
+        {
+            "section": "blog-section",
+            "section_title": {
+                "title": "Our Recent Blog"
+            }
+        }
+    ]
+}

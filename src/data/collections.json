@@ -1,0 +1,301 @@
+[
+    {
+        "id": 1,
+        "title": "Artisan Market",
+        "slug": "/artisan-market",
+        "total_item": 27,
+        "image": {
+            "src": "/images/collection/collection-lg-01.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-01.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-02.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-03.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-15.png"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Local Crafts",
+        "slug": "/local-crafts",
+        "total_item": 20,
+        "image": {
+            "src": "/images/collection/collection-lg-02.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-04.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-05.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-06.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-12.png"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Decentralized Art",
+        "slug": "/decentralized-art",
+        "total_item": 15,
+        "image": {
+            "src": "/images/collection/collection-lg-03.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-07.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-08.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-09.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-13.png"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Handmade Goods",
+        "slug": "/handmade-goods",
+        "total_item": 27,
+        "image": {
+            "src": "/images/collection/collection-lg-04.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-10.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-11.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-12.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-14.png"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Artisanal Creations",
+        "slug": "/artisanal-creations",
+        "total_item": 35,
+        "image": {
+            "src": "/images/collection/collection-lg-02.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-01.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-02.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-03.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-15.png"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Local Artisan Showcase",
+        "slug": "/local-artisan-showcase",
+        "total_item": 82,
+        "image": {
+            "src": "/images/collection/collection-lg-04.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-04.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-05.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-06.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-12.png"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Artisanal Innovations",
+        "slug": "/artisanal-innovations",
+        "total_item": 10,
+        "image": {
+            "src": "/images/collection/collection-lg-05.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-07.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-08.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-09.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-13.png"
+        }
+    },
+    {
+        "id": 8,
+        "title": "Decentralized Crafts",
+        "slug": "/decentralized-crafts",
+        "total_item": 82,
+        "image": {
+            "src": "/images/collection/collection-lg-01.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-10.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-11.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-12.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-14.png"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Handcrafted Creations",
+        "slug": "/handcrafted-creations",
+        "total_item": 15,
+        "image": {
+            "src": "/images/collection/collection-lg-02.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-02.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-04.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-07.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-11.png"
+        }
+    },
+    {
+        "id": 10,
+        "title": "Artisanal Masterpieces",
+        "slug": "/artisanal-masterpieces",
+        "total_item": 56,
+        "image": {
+            "src": "/images/collection/collection-lg-04.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-01.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-02.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-05.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-12.png"
+        }
+    },
+    {
+        "id": 11,
+        "title": "Local Artisanal Treasures",
+        "slug": "/local-artisanal-treasures",
+        "total_item": 56,
+        "image": {
+            "src": "/images/collection/collection-lg-03.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-03.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-05.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-06.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-13.png"
+        }
+    },
+    {
+        "id": 12,
+        "title": "Decentralized Artisan Market",
+        "slug": "/decentralized-artisan-market",
+        "total_item": 40,
+        "image": {
+            "src": "/images/collection/collection-lg-02.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-04.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-08.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-10.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-14.png"
+        }
+    },
+    {
+        "id": 13,
+        "title": "Artisanal Expressions",
+        "slug": "/artisanal-expressions",
+        "total_item": 35,
+        "image": {
+            "src": "/images/collection/collection-lg-04.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/collection-sm-02.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-09.jpg"
+            },
+            {
+                "src": "/images/collection/collection-sm-06.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/client/client-12.png"
+        }
+    }
+    ]

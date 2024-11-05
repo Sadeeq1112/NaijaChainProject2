@@ -1,0 +1,182 @@
+[
+    {
+        "id": 2,
+        "title": "Artisanal Craft Sold",
+        "path": "/connect",
+        "description": "Has been sold for 1221 ALGO",
+        "date": "15 July",
+        "time": "10:32 PM",
+        "image": {
+            "src": "/images/client/client-4.png"
+        },
+        "type": "newest"
+    },
+    {
+        "id": 3,
+        "title": "Handcrafted Jewelry Sold",
+        "path": "/connect",
+        "description": "Has been sold for 1221 ALGO",
+        "date": "16 July",
+        "time": "10:50 PM",
+        "image": {
+            "src": "/images/client/client-5.png"
+        },
+        "type": "trending"
+    },
+    {
+        "id": 4,
+        "title": "Custom Pottery Sold",
+        "path": "/connect",
+        "description": "Has been sold for 1240 ALGO",
+        "date": "17 July",
+        "time": "11:50 PM",
+        "image": {
+            "src": "/images/client/client-6.png"
+        },
+        "type": "newest"
+    },
+    {
+        "id": 5,
+        "title": "Handmade Quilt Sold",
+        "path": "/connect",
+        "description": "Has been sold for 1340 ALGO",
+        "date": "17 July",
+        "time": "09:50 AM",
+        "image": {
+            "src": "/images/client/client-7.png"
+        },
+        "type": "trending"
+    },
+    {
+        "id": 6,
+        "title": "Artisanal Soap Sold",
+        "path": "/connect",
+        "description": "Has been sold for 1040 ALGO",
+        "date": "20 FEB",
+        "time": "10:50 AM",
+        "image": {
+            "src": "/images/client/client-8.png"
+        },
+        "type": "newest"
+    },
+    {
+        "id": 7,
+        "title": "Handcrafted Leather Bag Sold",
+        "path": "/connect",
+        "description": "Has been sold for 910 ALGO",
+        "date": "21 FEB",
+        "time": "09:10 AM",
+        "image": {
+            "src": "/images/client/client-9.png"
+        },
+        "type": "saved"
+    },
+    {
+        "id": 8,
+        "title": "Custom Woodwork Sold",
+        "path": "/connect",
+        "description": "Has been sold for 550 ALGO",
+        "date": "21 JAN",
+        "time": "11:10 PM",
+        "image": {
+            "src": "/images/client/client-10.png"
+        },
+        "type": "newest"
+    },
+    {
+        "id": 9,
+        "title": "Handmade Candle Sold",
+        "path": "/connect",
+        "description": "Has been sold for 222 ALGO",
+        "date": "15 JAN",
+        "time": "05:10 AM",
+        "image": {
+            "src": "/images/client/client-11.png"
+        },
+        "type": "saved"
+    },
+    {
+        "id": 10,
+        "title": "Artisanal Bread Sold",
+        "path": "/connect",
+        "description": "Has been sold for 890 ALGO",
+        "date": "13 FEB",
+        "time": "04:15 PM",
+        "image": {
+            "src": "/images/client/client-1.png"
+        },
+        "type": "newest"
+    },
+    {
+        "id": 11,
+        "title": "Handcrafted Furniture Sold",
+        "path": "/connect",
+        "description": "Has been sold for 910 ALGO",
+        "date": "21 FEB",
+        "time": "09:10 AM",
+        "image": {
+            "src": "/images/client/client-2.png"
+        },
+        "type": "trending"
+    },
+    {
+        "id": 12,
+        "title": "Custom Knitwear Sold",
+        "path": "/connect",
+        "description": "Has been sold for 120 ALGO",
+        "date": "21 FEB",
+        "time": "05:10 AM",
+        "image": {
+            "src": "/images/client/client-2.png"
+        },
+        "type": "deleted"
+    },
+    {
+        "id": 13,
+        "title": "Artisanal Cheese Sold",
+        "path": "/connect",
+        "description": "Has been sold for 1210 ALGO",
+        "date": "21 FEB",
+        "time": "10:10 PM",
+        "image": {
+            "src": "/images/client/client-3.png"
+        },
+        "type": "trending"
+    },
+    {
+        "id": 14,
+        "title": "Handmade Toy Sold",
+        "path": "/connect",
+        "description": "Has been sold for 1910 ALGO",
+        "date": "25 FEB",
+        "time": "08:10 PM",
+        "image": {
+            "src": "/images/client/client-4.png"
+        },
+        "type": "deleted"
+    },
+    {
+        "id": 15,
+        "title": "Artisanal Coffee Sold",
+        "path": "/connect",
+        "description": "Has been sold for 555 ALGO",
+        "date": "21 FEB",
+        "time": "11:15 AM",
+        "image": {
+            "src": "/images/client/client-5.png"
+        },
+        "type": "saved"
+    },
+    {
+        "id": 16,
+        "title": "Handcrafted Shoes Sold",
+        "path": "/connect",
+        "description": "Has been sold for 750 ALGO",
+        "date": "21 FEB",
+        "time": "8:10 AM",
+        "image": {
+            "src": "/images/client/client-6.png"
+        },
+        "type": "deleted"
+    }
+]

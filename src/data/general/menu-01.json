@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "text": "Home",
+        "path": "/",
+        "icon": "feather-home"
+    },
+    {
+        "id": 2,
+        "text": "About",
+        "path": "/about"
+    },
+    {
+        "id": 3,
+        "text": "Explore",
+        "path": "#!"
+        
+    },
+    {
+        "id": 5,
+        "text": "Blog",
+        "path": "/blog"
+       
+    },
+    {
+        "id": 6,
+        "text": "Contact",
+        "path": "/contact"
+    }
+]

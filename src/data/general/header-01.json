@@ -1,0 +1,12 @@
+{
+    "id": "header-data-1",
+    "logo": [
+        {
+            "src": "/images/logo/NaijaChain WHITE 2.png"
+        },
+        {
+            "src": "/images/logo/NaijaChain.png"
+        }
+    ],
+    "activity_link": "/activity"
+}

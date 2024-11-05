@@ -1,0 +1,136 @@
+{
+    "id": "footer-data-01",
+    "logo-widget": {
+        "logo": [
+            {
+                "src": "/images/logo/NaijaChain WHITE 2.png",
+                "alt": "logo"
+            }
+        ],
+        "text": "Empowering Nigerian artisans with a decentralized marketplace for their crafts."
+    },
+    "newsletter-widget": {
+        "title": "Get The Latest DMLA Updates",
+        "note": "Your email is safe with us. We don't spam."
+    },
+    "quicklink-widget": {
+        "title": "DMLA",
+        "menu": [
+            {
+                "id": 1,
+                "text": "Explore Crafts",
+                "path": "/explore-01"
+            },
+            {
+                "id": 2,
+                "text": "Create Collection",
+                "path": "/create"
+            },
+            {
+                "id": 3,
+                "text": "Add Crafts",
+                "path": "/add"
+            },
+            {
+                "id": 4,
+                "text": "Sell Crafts",
+                "path": "/sell"
+            },
+            {
+                "id": 5,
+                "text": "Blog",
+                "path": "/blog"
+            },
+            {
+                "id": 6,
+                "text": "Activity Log",
+                "path": "/activity"
+            },
+            {
+                "id": 7,
+                "text": "Contact Us",
+                "path": "/contact"
+            }
+        ]
+    },
+    "information-widget": {
+        "title": "Information",
+        "menu": [
+            {
+                "id": 1,
+                "text": "About Us",
+                "path": "/about"
+            },
+            {
+                "id": 2,
+                "text": "FAQs",
+                "path": "/faqs"
+            },
+            {
+                "id": 3,
+                "text": "Support",
+                "path": "/support"
+            },
+            {
+                "id": 4,
+                "text": "Terms of Service",
+                "path": "/terms"
+            },
+            {
+                "id": 5,
+                "text": "Privacy Policy",
+                "path": "/privacy"
+            }
+        ]
+    },
+    "soldout-widget": {
+        "title": "Recently Sold Crafts",
+        "products": [
+            {
+                "id": 1,
+                "title": "Handmade Basket",
+                "path": "/product",
+                "highestBid": "Highest bid 1/20",
+                "price": "0.244wETH",
+                "image": {
+                    "src": "/images/portfolio/portfolio-01.jpg"
+                }
+            },
+            {
+                "id": 2,
+                "title": "Wooden Sculpture",
+                "path": "/product",
+                "highestBid": "Highest bid 1/20",
+                "price": "0.022wETH",
+                "image": {
+                    "src": "/images/portfolio/portfolio-02.jpg"
+                }
+            },
+            {
+                "id": 3,
+                "title": "Handwoven Rug",
+                "path": "/product",
+                "highestBid": "Highest bid 1/20",
+                "price": "0.892wETH",
+                "image": {
+                    "src": "/images/portfolio/portfolio-03.jpg"
+                }
+            }
+        ]
+    },
+    "footer-link-widget": {
+        "menu": [
+            {
+                "id": 1,
+                "text": "Terms",
+                "path": "/terms-condition"
+            },
+            {
+                "id": 2,
+                "text": "Privacy Policy",
+                "path": "/privacy-policy"
+            }
+        ]
+    },
+    "copyright_text": "©2022 NaijaChainn. All rights reserved"
+}

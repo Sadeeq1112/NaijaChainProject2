@@ -1,0 +1,124 @@
+{
+    "title": "home-01",
+    "content": [
+        {
+            "section": "hero-section",
+            "headings": [
+                {
+                    "id": 1,
+                    "content": "Discover Local Nigerian Crafts, Collect and Purchase Unique Artisanal Products."
+                }
+            ],
+            "texts": [
+                {
+                    "id": 1,
+                    "content": "Partner with one of Nigeria's largest decentralized marketplaces to showcase your crafts and products."
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "content": "Get Started",
+                    "path": "/"
+                },
+                {
+                    "id": 2,
+                    "color": "primary-alta",
+                    "content": "Create",
+                    "path": "/create"
+                }
+            ],
+            "images": [
+                {
+                    "src": "/images/slider/sidney-pearce-rco9Z8raWFM-unsplash (2).jpg"
+                }
+            ]
+        },
+        {
+            "section": "service-section",
+            "section_title": {
+                "title": "Create and sell your Crafts"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Set up your wallet",
+                    "path": "/connect",
+                    "subtitle": "Step-01",
+                    "description": "Powerful features and inclusions, which makes DMLA standout, easily customizable and scalable.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-7.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Create your collection",
+                    "path": "/collection",
+                    "subtitle": "Step-02",
+                    "description": "A great collection of beautiful Nigerian crafts for your need. Choose the best suitable craft.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Add your Crafts",
+                    "path": "/connect",
+                    "subtitle": "Step-03",
+                    "description": "We've made the marketplace fully responsive, so it looks great on all devices: desktop, tablets and.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-5.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Sell Your Crafts",
+                    "path": "/creator",
+                    "subtitle": "Step-04",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth Crafts.",
+                    "images": [
+                        {
+                            "src": "/images/icons/shape-6.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "section": "live-explore-section",
+            "section_title": {
+                "title": "Live Bidding"
+            }
+        },
+        {
+            "section": "newest-section",
+            "section_title": {
+                "title": "Newest Crafts"
+            }
+        },
+        {
+            "section": "top-sller-section",
+            "section_title": {
+                "title": "Top Seller in"
+            }
+        },
+        {
+            "section": "explore-product-section",
+            "section_title": {
+                "title": "Explore Crafts"
+            }
+        },
+        {
+            "section": "collection-section",
+            "section_title": {
+                "title": "Top Collection"
+            }
+        }
+    ]
+}
